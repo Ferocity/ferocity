@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ferocity.profile.visitors.id)
 
 [![Ferocity's github stats](https://github-readme-stats.vercel.app/api?username=Ferocity&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
