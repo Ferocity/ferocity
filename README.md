@@ -1,6 +1,10 @@
-### Dragons in code
+### Fight Dragons in Code
 
-Hey!
+Hello everybody, I'm Christian, a passionate security researcher and penetration tester.
+I always enjoy solving software issues, learning new technologies and programming languages.
+Hardening embedded Linux systems against attacks is one thing I've done over the last few years of my professional career.
+
+Currently, I'm really enjoy taking part in CTFs challenges and writing Rust programs.
 
 #### Github Stats 
 
