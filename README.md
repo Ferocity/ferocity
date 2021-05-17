@@ -13,3 +13,5 @@ Currently, I'm really enjoy taking part in CTFs challenges and writing Rust prog
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferocity&show_icons=true&line_height=33&count_private=true&theme=gruvbox" alt="Ferocity's GitHub Stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferocity&&hide=cmake&langs_count=7&line_height=33&theme=gruvbox" alt="Ferocity's Coding Stats" />
+
+[![ferocity](https://www.hackthebox.eu/badge/image/278844)](https://www.hackthebox.eu/home/users/profile/278844)
