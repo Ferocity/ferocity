@@ -21,5 +21,5 @@ Currently, I'm really enjoy taking part in CTFs challenges and writing Rust prog
   </tr>
 </table>
 
-#### Security Stats
+#### CTF Stats
 [![ferocity](https://www.hackthebox.eu/badge/image/278844)](https://www.hackthebox.eu/home/users/profile/278844)
